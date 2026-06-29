@@ -47,6 +47,7 @@ This project is a simple 2D vector drawing application developed using Python, P
 - PyOpenGL
 
 ## Run
-
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt  
 python main.py
+```
