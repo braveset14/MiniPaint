@@ -1,14 +1,14 @@
 # Mini Paint / Vector Drawing Application
 
 ## Group Members
-1.Darik Kefelegn - UGR/8508/16
-2.Eleni Demie - UGR/7940/16
-3.Kidist Nega - UGR/1923/16
-4.Liya Tegared - UGR/8172/16
-5.Nathnael Belay - UGR/9296/16
-6.Ruth Dagim - UGR/9664/16
-7.Yeabsera Zewdu - UGR/1970/16
-8.Yeshak Tsegaye - UGR/0585/16
+-1.Darik Kefelegn - UGR/8508/16
+-2.Eleni Demie - UGR/7940/16
+-3.Kidist Nega - UGR/1923/16
+-4.Liya Tegared - UGR/8172/16
+-5.Nathnael Belay - UGR/9296/16
+-6.Ruth Dagim - UGR/9664/16
+-7.Yeabsera Zewdu - UGR/1970/16
+-8.Yeshak Tsegaye - UGR/0585/16
 
 ## Project Description
 
