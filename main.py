@@ -273,6 +273,27 @@ def main():
                     if selected_shape_index != -1:
                         del canvas_shapes[selected_shape_index]
                         selected_shape_index = -1
+                elif (
+                    selected_shape_index != -1
+                    and
+                    current_mode == SELECT_MODE
+                ):
+
+                    shape = canvas_shapes[selected_shape_index]
+
+                    step = 5
+
+                    if event.key == K_UP:
+                        shape.translate_y += step
+
+                    elif event.key == K_DOWN:
+                        shape.translate_y -= step
+
+                    elif event.key == K_LEFT:
+                        shape.translate_x -= step
+
+                    elif event.key == K_RIGHT:
+                        shape.translate_x += step
                 elif event.key == K_c:
                     canvas_shapes.clear()
 
@@ -280,7 +301,7 @@ def main():
 
                     selected_shape_index = -1
 
-        # test        
+                
                 
         display()
 
